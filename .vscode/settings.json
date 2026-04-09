@@ -1,0 +1,7 @@
+{
+    "dotrush.roslyn.projectOrSolutionFiles": [
+        "/config/workspace/GriesB_Chess/Chess/Chess.csproj",
+        "/config/workspace/GriesB_Chess/Chess.test/Chess.test.csproj",
+        "/config/workspace/GriesB_Chess/Program/Program.csproj"
+    ]
+}
